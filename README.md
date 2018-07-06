@@ -1,5 +1,7 @@
 # Zeebe BOM
 
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.zeebe/zb-bom/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.zeebe/zb-bom)
+
 Contains versions for all Zeebe modules. It can be imported using maven by
 adding the following dependency to the `dependencyManagement` section of your
 pom.
